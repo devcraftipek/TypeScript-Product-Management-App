@@ -39,4 +39,5 @@ result = _productService.getProducts();
 console.log(result);
 
 
-Bu örneği kendi projenize uyarlayabilir ve kendi projenizin özelliklerini daha detaylı bir şekilde açıklayabilirsiniz.
+
+**Bu örneği kendi projenize uyarlayabilir ve kendi projenizin özelliklerini daha detaylı bir şekilde açıklayabilirsiniz.**
